@@ -79,7 +79,7 @@ googlebtn.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if (task.isSuccessful()) {
-                            Intent i =new Intent(getApplicationContext(),home.class);
+                            Intent i =new Intent(MainActivity.this,home.class);
                            startActivity(i);
                             Toast.makeText(getApplicationContext(),"Sign in successfull",Toast.LENGTH_LONG).show();
 finish();
