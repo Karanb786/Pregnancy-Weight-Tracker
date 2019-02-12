@@ -49,6 +49,50 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663336633312:android:7cc1e1ed20e0f85d",
+        "android_client_info": {
+          "package_name": "nutout.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663336633312-uha8cseji9p2a1euor0j6uqs93km3sk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nutout.in",
+            "certificate_hash": "670c8a153c9e752cc68ca4641194746beff10aaf"
+          }
+        },
+        {
+          "client_id": "663336633312-01t0qto82lhdivl7t0cqp4q468r6om9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARt6dC937xhzPfX9cm8lPqyxvQfgWz1Ug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663336633312-01t0qto82lhdivl7t0cqp4q468r6om9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"
